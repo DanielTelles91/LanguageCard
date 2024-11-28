@@ -1,9 +1,13 @@
 # LanguageCard
  An Apple II Language Card. Based on a design by [iz8dwf](https://youtu.be/1KPIAoO1dTU)
+ All credits to btb.
 
-[Interactive BOM](https://btb.github.io/LanguageCard/bom/LanguageCard_3.html)
 
-![image info](LanguageCard.png)
+![image info](Fotos/IMG_7424.jpg)
+![image info](Fotos/IMG_7382.jpg)
+![image info](Fotos/IMG_7466.jpg)
+
+How I managed to fix the memory corruption problem: https://www.applefritter.com/content/strange-problem-language-card
 
 ## Description
 
